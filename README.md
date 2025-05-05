@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# ✈️ Traveling Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A front-end travel-themed website built with **HTML, CSS, and JavaScript** to showcase destinations and inspire wanderlust. This project demonstrates clean UI design, responsive layout, and smooth user experience — ideal for portfolio or tourism showcase purposes.
 
-## Available Scripts
+**Live Demo**: [https://angiediaz0209.github.io/Traveling1/](https://angiediaz0209.github.io/Traveling1/)  
+**GitHub Code**: [https://github.com/angiediaz0209/Traveling1](https://github.com/angiediaz0209/Traveling1)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📚 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Description](#-description)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Features](#-features)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Credits](#-credits)
+- [Contact](#-contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🙌 Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The **Traveling Website** is a visually appealing, static site designed to promote travel experiences. It includes multiple sections highlighting destinations, and it’s responsive across devices. The project serves as a beginner-friendly front-end practice, focused on layout, styling, and scroll behavior using vanilla web technologies.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🐢 Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To view or modify the project locally:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/angiediaz0209/Traveling1.git
+cd Traveling1
+```
 
-### `npm run eject`
+Then, open `index.html` in any browser, or launch it using Live Server in VS Code.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎮 Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Scroll through travel destination sections
+- Navigate using the menu bar
+- View the site on mobile and desktop for responsive behavior
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ✨ Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Clean and modern design
+- Fully responsive layout
+- Smooth scrolling experience
+- Section-based travel inspiration content
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🙇‍♀️ Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Want to improve the layout or add a feature? Fork this repo, make your changes, and submit a pull request! All contributions are welcome.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📜 License
 
-### Making a Progressive Web App
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/angiediaz0209/Traveling1/blob/main/LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🔥 Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Angie Diaz** – Developer  
+- Built with **HTML**, **CSS**, and **JavaScript**
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📬 Contact
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Have feedback or collaboration ideas? Feel free to reach out on [GitHub @angiediaz0209](https://github.com/angiediaz0209).
